@@ -1,6 +1,7 @@
 %% Machine Learning Online Class - Exercise 1: Linear Regression
 
 %  Instructions
+%  Rayfe
 %  ------------
 % 
 %  This file contains code that helps you get started on the
